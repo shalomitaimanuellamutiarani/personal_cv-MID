@@ -4,7 +4,7 @@ simple portfolio built with react and tailwindcss
 
 ## Screenshot
 
-### Movies List
+
 ![dark theme](https://res.cloudinary.com/dtvqrqyqr/image/upload/v1651577485/screenshots/Screenshot_420_lrugaf.png)
 
 
