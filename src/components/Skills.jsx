@@ -5,7 +5,6 @@ import JavaScript from '../assets/images/javascript.png';
 import ReactImg from '../assets/images/react.png';
 import Node from '../assets/images/node.png';
 import FireBase from '../assets/images/firebase.png';
-import AWS from '../assets/images/aws.png';
 import GitHub from '../assets/images/github.png';
 import Mongo from '../assets/images/mongo.png';
 
@@ -49,8 +48,8 @@ const Skills = () => {
                         <p className='my-4'>MONGO DB</p>
                     </div>
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={AWS} alt="HTML icon" />
-                        <p className='my-4'>AWS</p>
+                        <img className='w-20 mx-auto' src={FireBase} alt="HTML icon" />
+                        <p className='my-4'>Firebase</p>
                     </div>
                 </div>
             </div>
